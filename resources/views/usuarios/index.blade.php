@@ -9,7 +9,7 @@
             <div class="pull-right">
                 <a class="btn btn-success" href="{{ route('usuarios.create') }}" title="Criar usuário"> <i class="fas fa-plus-circle"></i>
                     </a>
-                    <a class="btn btn-success" href="./" title="Voltar"> <i class="fas fa-backward"></i>
+                    <a class="btn btn-success" href="./dashboard" title="Voltar"> <i class="fas fa-backward"></i>
                     </a>
             </div>
         </div>
